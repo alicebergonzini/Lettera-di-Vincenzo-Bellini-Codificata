@@ -1,5 +1,5 @@
 > University of Pisa, UNIPI \
-> Authors: [Alice Bergonzini](https://github.com/alicebergonzini), [Irene Pisani](https://github.com/irenepisani) \
+> Authors: [Alice Bergonzini](https://github.com/alicebergonzini), [Irene Pisani](https://github.com/irenepisani) 
 
 # Lettera di Vincenzo Bellini Codificata
 
