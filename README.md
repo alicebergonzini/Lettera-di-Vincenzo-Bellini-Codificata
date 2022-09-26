@@ -1,7 +1,7 @@
 > University of Pisa, UNIPI \
 > Authors: [Alice Bergonzini](https://github.com/alicebergonzini), [Irene Pisani](https://github.com/irenepisani) \
 
-# Lettera_di_Vincenzo_Bellini_Codificata
+# Lettera di Vincenzo Bellini Codificata
 
 Progetto per l'esame di Codifica di Testi per il corso triennale in Informatica Umanistica all'Università di Pisa.
 Il progetto consiste in una codifica xml di una lettera del compositore Vincenzo Bellini, seguendo il modello TEI. 
